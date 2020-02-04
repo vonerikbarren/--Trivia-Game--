@@ -29,7 +29,7 @@ function animationPipeline() {
     runningGameAgain = false,
     timerObject = undefined,
     gameQuestions = [],
-    // gameMusic = new Audio('http://f5361a5c08a4c03f7c6f-acbeb9602bd0a56bf9c1a6bed3d8280b.r27.cf2.rackcdn.com/math2.mp3'),
+    gameMusic = new Audio('http://f5361a5c08a4c03f7c6f-acbeb9602bd0a56bf9c1a6bed3d8280b.r27.cf2.rackcdn.com/math2.mp3'),
     rightAnswer = new Audio('http://f5361a5c08a4c03f7c6f-acbeb9602bd0a56bf9c1a6bed3d8280b.r27.cf2.rackcdn.com/RightSound2%202.mp3'),
     wrongAnser = new Audio('http://f5361a5c08a4c03f7c6f-acbeb9602bd0a56bf9c1a6bed3d8280b.r27.cf2.rackcdn.com/wrongSound2.mp3'),
     questions = [
@@ -297,7 +297,7 @@ function animationPipeline() {
    **/
   self.tweetScore = function () {
     var u = 'https://codepen.io/agnosticdev/pen/ZbWjaB';
-    var text = 'I just played Web Trivia Game on @CodePen and scored: ' + actualScore + ' points! @matt_815';
+    var text = 'I just played an amazing Trivia game ' + actualScore + ' points! @vonerikbarren';
     var url = 'https://twitter.com/intent/tweet?original_referer=' + u + '&url=' + u + '&text=' + text;
     var newWindow = window.open(url, 'name', 'height=400,width=450');
     if (window.focus) { newWindow.focus() }
