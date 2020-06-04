@@ -11,6 +11,7 @@
   2. Answer each other questions correctly, if the user dont you will know by the end of the game. 
   3. The goal is to get to 100% accuracy of the questions answered correctly.
   4. If the user get it wrong or write, 100% or not, it will ask the user to play again. 
+  5. Once the user plays again, the questions remain the same, but are asked in a different sequence. 
 
 
 
