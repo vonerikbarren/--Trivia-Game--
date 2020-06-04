@@ -8,7 +8,8 @@
 ## Section 2 - Directions 
   ### Directions overview: In order to complete the trivia , simply answer all of the questions correctly! That is all! 
   1. The game starts when the user is ready... please press the button to get started.
-  2. Answer each othe questions correctly, if you dont you will know by the end of the game. 
+  2. Answer each other questions correctly, if you dont you will know by the end of the game. 
+  3. 
 
 
 
