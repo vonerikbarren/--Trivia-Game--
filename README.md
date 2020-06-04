@@ -12,6 +12,7 @@
   3. The goal is to get to 100% accuracy of the questions answered correctly.
   4. If the user get it wrong or write, 100% or not, it will ask the user to play again. 
   5. Once the user plays again, the questions remain the same, but are asked in a different sequence. 
+  6. After which, when the game is restarted, there is a song and timer to aid you in difficulty, choose wisely!
 
 
 
