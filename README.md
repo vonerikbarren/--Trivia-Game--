@@ -6,7 +6,7 @@
 
 
 ## Section 2 - Directions 
-  ### Directions overview:
+  ### Directions overview: In order to complete the trivia , simply answer all of the questions correctly! That is all! 
   1. 
 
 
