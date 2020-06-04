@@ -20,7 +20,7 @@
 
 ### Summary 
 - This app was more difficult, but definitely worth making. 
-
+- I learned so much from creating this application and hope to use the knowledge from this app later on in more complicated applications. 
 
 
 
