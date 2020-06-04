@@ -19,6 +19,9 @@
 ## Section 3 - Summary & Notes 
 
 ### Summary 
+- This app was more difficult, but definitely worth making. 
+
+
 
 
 ### Notes 
