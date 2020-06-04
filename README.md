@@ -9,7 +9,7 @@
   ### Directions overview: In order to complete the trivia , simply answer all of the questions correctly! That is all! 
   1. The game starts when the user is ready... please press the button to get started.
   2. Answer each other questions correctly, if you dont you will know by the end of the game. 
-  3. 
+  3. The goal is to get to 100% accuracy of the questions answered correctly 
 
 
 
